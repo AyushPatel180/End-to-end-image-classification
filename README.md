@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## End to End Fashion Item Classification using Convolutional Neural Networks
 
 ## Overview
@@ -197,3 +198,6 @@ Make sure to replace placeholders like `https://github.com/yourusername/fashion-
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# End-to-end-image-classification
+>>>>>>> 522f5f9e918c1ea32568bc5cb2444855da47cd98
